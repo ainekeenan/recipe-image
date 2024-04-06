@@ -1,0 +1,10 @@
+# Ignore everything
+*
+# Allow only needed files and directories
+!/templates
+!/app.py
+!/cleaningredients.py
+!/default
+!/dependencies.txt
+!/food.txt
+!/words-by-frequency.txt
