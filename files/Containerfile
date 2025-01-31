@@ -1,5 +1,5 @@
 FROM redhat/ubi8
-FROM python
+FROM python:3.12
 LABEL maintainer="akeenan@redhat.com"
 
 COPY dependencies.txt dependencies.txt
